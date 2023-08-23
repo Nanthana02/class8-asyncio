@@ -48,6 +48,7 @@ async def main():
 # start the asyncio program
 asyncio.run(main())
 
+#
 # Wed Aug 23 15:19:09 2023 Consumer: Running
 # Wed Aug 23 15:19:09 2023 Producer: Running
 # Wed Aug 23 15:19:09 2023 Producer: Running
